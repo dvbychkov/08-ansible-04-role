@@ -38,3 +38,9 @@ lighthouse-role - https://github.com/dvbychkov/lighthouse-role
 11. В ответе дайте ссылки на оба репозитория с roles и одну ссылку на репозиторий с playbook.
 
 <img src = "img/3.JPG" width = 50%>
+
+site.yml - https://github.com/dvbychkov/08-ansible-04-role/blob/master/site.yml
+
+requirements.yml - https://github.com/dvbychkov/08-ansible-04-role/blob/master/requirements.yml
+
+prod.yml - https://github.com/dvbychkov/08-ansible-04-role/blob/master/prod.yml
